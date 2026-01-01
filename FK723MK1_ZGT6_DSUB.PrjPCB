@@ -183,7 +183,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=DGJBQTKQ
 
 [Document9]
 DocumentPath=..\Library\Altium_WR-DSUB (rev25b).IntLib
@@ -201,6 +201,50 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[GeneratedDocument1]
+DocumentPath=Output\Gerber\FK723MK1_ZGT6_DSUB.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Output\Gerber\FK723MK1_ZGT6_DSUB.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Output\Gerber\FK723MK1_ZGT6_DSUB.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Output\Gerber\FK723MK1_ZGT6_DSUB.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Output\Gerber\FK723MK1_ZGT6_DSUB.GM
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Output\Gerber\FK723MK1_ZGT6_DSUB.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Output\Gerber\FK723MK1_ZGT6_DSUB.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Output\Gerber\FK723MK1_ZGT6_DSUB.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Output\Gerber\FK723MK1_ZGT6_DSUB.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Output\Gerber\FK723MK1_ZGT6_DSUB.REP
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Output\Gerber\FK723MK1_ZGT6_DSUB.TXT
+DItemRevisionGUID=
 
 [Parameter1]
 Name=Autor
@@ -771,36 +815,6 @@ OutputName12=Web Review Data
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
-OutputType13=Ansoft Neutral
-OutputName13=Ansoft Neutral (AutoPCB)
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-OutputType14=HyperLynx
-OutputName14=HyperLynx (AutoPCB)
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-OutputType15=MathWorks
-OutputName15=MathWorks (AutoPCB)
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-OutputType16=Orcad v7 Capture Design
-OutputName16=Orcad v7 Capture Design (AutoSCH)
-OutputDocumentPath16=
-OutputVariantName16=
-OutputDefault16=0
-OutputType17=P-CAD ASCII
-OutputName17=P-CAD ASCII (AutoPCB)
-OutputDocumentPath17=
-OutputVariantName17=
-OutputDefault17=0
-OutputType18=P-CAD V16 Schematic Design
-OutputName18=P-CAD V16 Schematic Design (AutoSCH)
-OutputDocumentPath18=
-OutputVariantName18=
-OutputDefault18=0
 
 [OutputGroup10]
 Name=PostProcess Outputs

@@ -1,0 +1,17 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [FK723MK1_ZGT6_DSUB.PcbDoc]
+   Generated File[FK723MK1_ZGT6_DSUB.GTS]
+   Generated File[FK723MK1_ZGT6_DSUB.GTL]
+   Generated File[FK723MK1_ZGT6_DSUB.GBL]
+   Generated File[FK723MK1_ZGT6_DSUB.GBS]
+   Generated File[FK723MK1_ZGT6_DSUB.GM1]
+   Generated File[FK723MK1_ZGT6_DSUB.GM]
+   Generated File[FK723MK1_ZGT6_DSUB.EXTREP]
+   Generated File[FK723MK1_ZGT6_DSUB.REP]
+
+
+Files Generated   : 8
+Documents Printed : 0
+
+Finished Output Generation At 21:33:36 On 01.01.2026
